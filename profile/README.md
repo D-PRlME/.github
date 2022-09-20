@@ -4,4 +4,4 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=350&section=header&text=D.PRIME%&fontSize=90)
 
 <h1>💬 About Us</h1>
-Prime Project With Prime Students
+Prime Project with Prime Students
